@@ -1,7 +1,7 @@
 [
     {
         "session": "bot",
-        "token": "",
+        "token": "7755843491:AAGjLLJFv-KDBmSIuZQo-sz2G-CPegrT9oQ",
         "api_id": "23685822",
         "api_hash": "ff0572e13ff2f63a50f6dc707e0c4c9f",
         "workers": 8,
@@ -26,6 +26,7 @@
         "protect": false
     }
 ]
+
 
 
 

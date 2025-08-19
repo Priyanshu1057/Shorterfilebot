@@ -2,13 +2,13 @@
     {
         "session": "bot",
         "token": "",
-        "api_id": "",
-        "api_hash": "",
+        "api_id": "23685822",
+        "api_hash": "ff0572e13ff2f63a50f6dc707e0c4c9f",
         "workers": 8,
-        "db_uri": "",
-        "db_name": "Realm",
-        "fsubs": [[-100, false, 5], [-100, false, 5]],
-        "db": -100,
+        "db_uri": "mongodb+srv://jhonwickp1:yRD1YhgiGPiziyyH@cluster0.towfdff.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "db_name": "Cluster0",
+        "fsubs": [[-1002631912719, false, 5], [-1002711022996, false, 5]],
+        "db": -1002847069985,
         "auto_del": 600,
         "bypass_timeout": 50,
         "messages": {
@@ -17,15 +17,16 @@
             "ABOUT": "<b><blockquote>1. First Join the channel\n2. Tap on Original link again or Reload ⚡️\n3. Tap on Start and Done ✅</blockquote></b>",
             "REPLY": "<b>ʙᴀᴋᴋᴀ ! ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴍʏ ꜱᴇɴᴘᴀɪ!!</b>",
             "SHORT_MSG": "<b>⌯ ʜᴇʀᴇ ɪꜱ ʏᴏᴜʀ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ, ᴍᴜꜱᴛ ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ʙᴇꜰᴏʀᴇ ᴄʟɪᴄᴋɪɴɢ ᴏɴ ᴅᴏᴡɴʟᴏᴀᴅ...</b>",
-            "START_PHOTO": "",
-            "FSUB_PHOTO": "",
-            "SHORT_PIC": ""
+            "START_PHOTO": "https://envs.sh/d97.jpg",
+            "FSUB_PHOTO": "https://envs.sh/d98.jpg",
+            "SHORT_PIC": "https://envs.sh/d98.jpg"
         },
-        "admins": [6648688093],
+        "admins": [6725874739],
         "disable_btn": true,
         "protect": false
     }
 ]
+
 
 
 

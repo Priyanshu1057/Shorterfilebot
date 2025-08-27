@@ -7,7 +7,7 @@ PORT = os.environ.get('PORT', '8005')
 OWNER_ID = 6725874739
 MSG_EFFECT = 5159385139981059251
 SHORT_URL = "arolinks.com"
-SHORT_API = "97efe163e07453fe37fcd8a36adb284fb2adca2f"
+SHORT_API = "3adca196c74366f9d2991580d3fc459015b8ae36"
 
 def LOGGER(name: str, client_name: str) -> logging.Logger:
     logger = logging.getLogger(name)
